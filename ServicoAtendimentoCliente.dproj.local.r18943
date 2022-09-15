@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/07/11 08:48:44.000.859,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFPrincipal.pas=D:\Meus documentos\RAD Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2013/07/11 08:48:44.000.859,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFPrincipal.dfm=D:\Meus documentos\RAD Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2013/07/11 08:49:06.000.656,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\ServicoAtendimentoCliente.dproj=D:\Meus documentos\RAD Studio\Projects\Project7.dproj</Transaction>
+    <Transaction>2013/07/11 10:08:59.000.453,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UDm.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2013/07/11 10:08:59.000.453,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UDm.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/07/11 14:00:39.000.984,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFAtendimentoCliente.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2013/07/11 14:00:39.000.984,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFAtendimentoCliente.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/07/12 10:37:53.000.546,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFItemOcorrencia.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/07/12 10:37:53.000.546,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFItemOcorrencia.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2013/07/22 17:01:52.000.171,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFDadosTransbordoCarga.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2013/07/22 17:01:52.000.171,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFDadosTransbordoCarga.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/07/24 09:50:43.000.359,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFConsultaOcorrencia.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/07/24 09:50:43.000.359,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFConsultaOcorrencia.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2013/07/24 17:27:39.000.968,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFVisualizacaoOcorrencia.dfm</Transaction>
+    <Transaction>2013/07/26 16:23:04.000.656,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFSolucaoItem.dfm</Transaction>
+    <Transaction>2013/07/31 10:51:02.000.843,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFCausaItem.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2013/07/31 10:51:02.000.843,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFCausaItem.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/08/06 11:43:30.000.953,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFCadastroGeral.dfm</Transaction>
+    <Transaction>2013/08/16 11:00:28.000.562,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFRegistroRecorrencia.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/08/16 11:00:28.000.562,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFRegistroRecorrencia.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2013/08/20 09:46:44.000.718,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFVisualizacaoRecorrencia.dfm</Transaction>
+    <Transaction>2013/10/21 11:14:47.000.546,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFRelatorio.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/10/21 11:14:47.000.546,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFRelatorio.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2013/11/18 14:23:53.000.421,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFRelatorioDeRecorrencia.dfm=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2013/11/18 14:23:53.000.406,C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\UFRelatorioDeRecorrencia.pas=C:\Gam\NovaVersao\MultiEmpresa\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2014/04/16 10:02:21.000.046,C:\Gam\ProducaoSoftware\Sistemas\Desktop\ServicoAtendimentoCliente\UFRelatorioSolucaoCadastrada.dfm=C:\Gam\ProducaoSoftware\Sistemas\Desktop\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2014/04/16 11:27:16.000.250,C:\Gam\ProducaoSoftware\Sistemas\Desktop\ServicoAtendimentoCliente\UFRelatorioCausaCadastrada.dfm=C:\Gam\ProducaoSoftware\Sistemas\Desktop\ServicoAtendimentoCliente\Unit1.dfm</Transaction>
+    <Transaction>2015/03/10 17:28:13.000.179,=C:\Gam\ProducaoSoftware\Sistemas\Desktop\ServicoAtendimentoCliente\Unit1.pas</Transaction>
+    <Transaction>2015/03/10 17:28:29.000.402,C:\Gam\ProducaoSoftware\Sistemas\Desktop\ServicoAtendimentoCliente\Unit1.pas=C:\Gam\ProducaoSoftware\Sistemas\Desktop\ServicoAtendimentoCliente\UTelaSistema.pas</Transaction>
+  </Transactions>
+</BorlandProject>
